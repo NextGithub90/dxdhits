@@ -1,0 +1,620 @@
+- generic [active] [ref=e1]:
+  - link "Lewati ke konten" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic "Promo utama" [ref=e3]:
+    - paragraph [ref=e4]:
+      - generic [ref=e5]: Gratis ongkir tersedia
+      - generic [aria-hidden] [ref=e6]: •
+      - generic [ref=e7]: Rayon premium
+      - generic [aria-hidden] [ref=e8]: •
+      - link "Belanja sekarang" [ref=e9] [cursor=pointer]:
+        - /url: "#koleksi"
+  - banner [ref=e10]:
+    - generic [ref=e11]:
+      - link "DXD.Hits Homewear — beranda" [ref=e12] [cursor=pointer]:
+        - /url: "#beranda"
+        - img "Logo DXD.Hits Homewear" [ref=e13]
+      - navigation "Navigasi utama" [ref=e14]:
+        - link "Beranda" [ref=e15] [cursor=pointer]:
+          - /url: "#beranda"
+        - link "Koleksi" [ref=e16] [cursor=pointer]:
+          - /url: "#koleksi"
+        - link "Tentang Kami" [ref=e17] [cursor=pointer]:
+          - /url: "#tentang"
+        - link "TikTok" [ref=e18] [cursor=pointer]:
+          - /url: "#tiktok"
+      - generic [ref=e19]:
+        - link "Kunjungi TikTok DXD.Hits" [ref=e20] [cursor=pointer]:
+          - /url: https://www.tiktok.com/@dxdhits
+        - link "Lihat Koleksi" [ref=e23] [cursor=pointer]:
+          - /url: "#koleksi"
+  - main [ref=e24]:
+    - region "Koleksi unggulan" [ref=e25]:
+      - generic [ref=e27]:
+        - article [ref=e483]:
+          - img "Perempuan mengenakan set homewear floral di ruang keluarga yang terang" [ref=e484]
+          - generic [ref=e486]:
+            - generic [ref=e487]: Everyday mood
+            - heading "Ringan dipakai, cantik dilihat." [level=2] [ref=e488]: Ringan dipakai,cantik dilihat.
+            - paragraph [ref=e489]: Motif cerah dan potongan santai untuk membuat hari di rumah terasa lebih menyenangkan.
+            - link "Lihat Koleksi" [ref=e490] [cursor=pointer]:
+              - /url: "#koleksi"
+        - button "Slide sebelumnya" [ref=e36] [cursor=pointer]
+        - button "Slide berikutnya" [ref=e39] [cursor=pointer]
+        - generic "Pilih slide" [ref=e42]:
+          - button "Tampilkan slide 1" [ref=e43] [cursor=pointer]
+          - button "Tampilkan slide 2" [ref=e44] [cursor=pointer]
+          - button "Tampilkan slide 3" [ref=e45] [cursor=pointer]
+    - generic "Hot sale 50% off" [ref=e46]:
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - text: Hot Sale
+            - generic [ref=e50]: 50% Off
+          - generic [ref=e51]: ✦
+          - generic [ref=e52]:
+            - text: Hot Sale
+            - generic [ref=e53]: 50% Off
+          - generic [ref=e54]: ✦
+          - generic [ref=e55]:
+            - text: Hot Sale
+            - generic [ref=e56]: 50% Off
+          - generic [ref=e57]: ✦
+          - generic [ref=e58]:
+            - text: Hot Sale
+            - generic [ref=e59]: 50% Off
+          - generic [ref=e60]: ✦
+          - generic [ref=e61]:
+            - text: Hot Sale
+            - generic [ref=e62]: 50% Off
+          - generic [ref=e63]: ✦
+          - generic [ref=e64]:
+            - text: Hot Sale
+            - generic [ref=e65]: 50% Off
+          - generic [ref=e66]: ✦
+          - generic [ref=e67]:
+            - text: Hot Sale
+            - generic [ref=e68]: 50% Off
+          - generic [ref=e69]: ✦
+          - generic [ref=e70]:
+            - text: Hot Sale
+            - generic [ref=e71]: 50% Off
+          - generic [ref=e72]: ✦
+          - generic [ref=e73]:
+            - text: Hot Sale
+            - generic [ref=e74]: 50% Off
+          - generic [ref=e75]: ✦
+          - generic [ref=e76]:
+            - text: Hot Sale
+            - generic [ref=e77]: 50% Off
+          - generic [ref=e78]: ✦
+        - generic [aria-hidden] [ref=e79]:
+          - generic [ref=e80]:
+            - text: Hot Sale
+            - generic [ref=e81]: 50% Off
+          - generic [ref=e82]: ✦
+          - generic [ref=e83]:
+            - text: Hot Sale
+            - generic [ref=e84]: 50% Off
+          - generic [ref=e85]: ✦
+          - generic [ref=e86]:
+            - text: Hot Sale
+            - generic [ref=e87]: 50% Off
+          - generic [ref=e88]: ✦
+          - generic [ref=e89]:
+            - text: Hot Sale
+            - generic [ref=e90]: 50% Off
+          - generic [ref=e91]: ✦
+          - generic [ref=e92]:
+            - text: Hot Sale
+            - generic [ref=e93]: 50% Off
+          - generic [ref=e94]: ✦
+          - generic [ref=e95]:
+            - text: Hot Sale
+            - generic [ref=e96]: 50% Off
+          - generic [ref=e97]: ✦
+          - generic [ref=e98]:
+            - text: Hot Sale
+            - generic [ref=e99]: 50% Off
+          - generic [ref=e100]: ✦
+          - generic [ref=e101]:
+            - text: Hot Sale
+            - generic [ref=e102]: 50% Off
+          - generic [ref=e103]: ✦
+          - generic [ref=e104]:
+            - text: Hot Sale
+            - generic [ref=e105]: 50% Off
+          - generic [ref=e106]: ✦
+          - generic [ref=e107]:
+            - text: Hot Sale
+            - generic [ref=e108]: 50% Off
+          - generic [ref=e109]: ✦
+    - generic [ref=e111]:
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - generic [ref=e114]: Pilihan DXD.Hits
+          - heading "Temukan homewear favoritmu" [level=2] [ref=e115]
+        - paragraph [ref=e116]: Enam koleksi pilihan dengan bahan nyaman, motif menarik, dan harga spesial.
+      - generic [ref=e117]:
+        - article [ref=e118]:
+          - generic [ref=e119]:
+            - img "One Set Lace V-Neck — foto 3" [ref=e492]
+            - button "Foto sebelumnya One Set Lace V-Neck" [ref=e126] [cursor=pointer]
+            - button "Foto berikutnya One Set Lace V-Neck" [ref=e129] [cursor=pointer]
+            - generic "Pilih foto One Set Lace V-Neck" [ref=e132]:
+              - button "Tampilkan foto 1 One Set Lace V-Neck" [ref=e133] [cursor=pointer]
+              - button "Tampilkan foto 2 One Set Lace V-Neck" [ref=e134] [cursor=pointer]
+              - button "Tampilkan foto 3 One Set Lace V-Neck" [ref=e135] [cursor=pointer]
+              - button "Tampilkan foto 4 One Set Lace V-Neck" [ref=e136] [cursor=pointer]
+              - button "Tampilkan foto 5 One Set Lace V-Neck" [ref=e137] [cursor=pointer]
+          - generic [ref=e138]:
+            - paragraph [ref=e139]: Best choice
+            - heading "One Set Lace V-Neck" [level=3] [ref=e140]
+            - generic [ref=e141]:
+              - generic [ref=e142]: Gratis ongkir
+              - generic "Rating produk" [ref=e143]: ★★★★★
+              - generic [ref=e144]: 5 terjual
+            - generic [ref=e145]:
+              - generic [ref=e146]:
+                - strong [ref=e147]: Rp86.088
+                - deletion [ref=e148]: Rp129.500
+              - button "Cek TikTok" [ref=e149] [cursor=pointer]
+        - article [ref=e152]:
+          - generic [ref=e153]:
+            - img "Crop Boxy Two-Piece Set — foto 3" [ref=e494]
+            - button "Foto sebelumnya Crop Boxy Two-Piece Set" [ref=e160] [cursor=pointer]
+            - button "Foto berikutnya Crop Boxy Two-Piece Set" [ref=e163] [cursor=pointer]
+            - generic "Pilih foto Crop Boxy Two-Piece Set" [ref=e166]:
+              - button "Tampilkan foto 1 Crop Boxy Two-Piece Set" [ref=e167] [cursor=pointer]
+              - button "Tampilkan foto 2 Crop Boxy Two-Piece Set" [ref=e168] [cursor=pointer]
+              - button "Tampilkan foto 3 Crop Boxy Two-Piece Set" [ref=e169] [cursor=pointer]
+              - button "Tampilkan foto 4 Crop Boxy Two-Piece Set" [ref=e170] [cursor=pointer]
+              - button "Tampilkan foto 5 Crop Boxy Two-Piece Set" [ref=e171] [cursor=pointer]
+          - generic [ref=e172]:
+            - paragraph [ref=e173]: New product
+            - heading "Crop Boxy Two-Piece Set" [level=3] [ref=e174]
+            - generic [ref=e175]:
+              - generic [ref=e176]: Gratis ongkir
+              - generic "Rating produk" [ref=e177]: ★★★★★
+              - generic [ref=e178]: 2 terjual
+            - generic [ref=e179]:
+              - generic [ref=e180]:
+                - strong [ref=e181]: Rp72.900
+                - deletion [ref=e182]: Rp109.950
+              - button "Cek TikTok" [ref=e183] [cursor=pointer]
+        - article [ref=e186]:
+          - generic [ref=e187]:
+            - img "Daster Mini Dress V-Neck — foto 7" [ref=e496]
+            - button "Foto sebelumnya Daster Mini Dress V-Neck" [ref=e198] [cursor=pointer]
+            - button "Foto berikutnya Daster Mini Dress V-Neck" [ref=e201] [cursor=pointer]
+            - generic "Pilih foto Daster Mini Dress V-Neck" [ref=e204]:
+              - button "Tampilkan foto 1 Daster Mini Dress V-Neck" [ref=e205] [cursor=pointer]
+              - button "Tampilkan foto 2 Daster Mini Dress V-Neck" [ref=e206] [cursor=pointer]
+              - button "Tampilkan foto 3 Daster Mini Dress V-Neck" [ref=e207] [cursor=pointer]
+              - button "Tampilkan foto 4 Daster Mini Dress V-Neck" [ref=e208] [cursor=pointer]
+              - button "Tampilkan foto 5 Daster Mini Dress V-Neck" [ref=e209] [cursor=pointer]
+              - button "Tampilkan foto 6 Daster Mini Dress V-Neck" [ref=e210] [cursor=pointer]
+              - button "Tampilkan foto 7 Daster Mini Dress V-Neck" [ref=e211] [cursor=pointer]
+              - button "Tampilkan foto 8 Daster Mini Dress V-Neck" [ref=e212] [cursor=pointer]
+              - button "Tampilkan foto 9 Daster Mini Dress V-Neck" [ref=e213] [cursor=pointer]
+          - generic [ref=e214]:
+            - paragraph [ref=e215]: Best seller
+            - heading "Daster Mini Dress V-Neck" [level=3] [ref=e216]
+            - generic [ref=e217]:
+              - generic [ref=e218]: Gratis ongkir
+              - generic "Rating produk" [ref=e219]: ★★★★★
+              - generic [ref=e220]: 4.8 · 9174 terjual
+            - generic [ref=e221]:
+              - generic [ref=e222]:
+                - strong [ref=e223]: Rp59.450
+                - deletion [ref=e224]: Rp99.500
+              - button "Cek TikTok" [ref=e225] [cursor=pointer]
+        - article [ref=e228]:
+          - generic [ref=e229]:
+            - img "Hayley Midnight Mini Dress — foto 2" [ref=e498]
+            - button "Foto sebelumnya Hayley Midnight Mini Dress" [ref=e236] [cursor=pointer]
+            - button "Foto berikutnya Hayley Midnight Mini Dress" [ref=e239] [cursor=pointer]
+            - generic "Pilih foto Hayley Midnight Mini Dress" [ref=e242]:
+              - button "Tampilkan foto 1 Hayley Midnight Mini Dress" [ref=e243] [cursor=pointer]
+              - button "Tampilkan foto 2 Hayley Midnight Mini Dress" [ref=e244] [cursor=pointer]
+              - button "Tampilkan foto 3 Hayley Midnight Mini Dress" [ref=e245] [cursor=pointer]
+              - button "Tampilkan foto 4 Hayley Midnight Mini Dress" [ref=e246] [cursor=pointer]
+              - button "Tampilkan foto 5 Hayley Midnight Mini Dress" [ref=e247] [cursor=pointer]
+          - generic [ref=e248]:
+            - paragraph [ref=e249]: Special article
+            - heading "Hayley Midnight Mini Dress" [level=3] [ref=e250]
+            - generic [ref=e251]:
+              - generic [ref=e252]: Gratis ongkir
+              - generic "Rating produk" [ref=e253]: ★★★★★
+              - generic [ref=e254]: 4.7 · 50 terjual
+            - generic [ref=e255]:
+              - generic [ref=e256]:
+                - strong [ref=e257]: Rp56.635
+                - deletion [ref=e258]: Rp99.500
+              - button "Cek TikTok" [ref=e259] [cursor=pointer]
+        - article [ref=e262]:
+          - generic [ref=e263]:
+            - img "Premium Daster Tali — foto 6" [ref=e500]
+            - button "Foto sebelumnya Premium Daster Tali" [ref=e273] [cursor=pointer]
+            - button "Foto berikutnya Premium Daster Tali" [ref=e276] [cursor=pointer]
+            - generic "Pilih foto Premium Daster Tali" [ref=e279]:
+              - button "Tampilkan foto 1 Premium Daster Tali" [ref=e280] [cursor=pointer]
+              - button "Tampilkan foto 2 Premium Daster Tali" [ref=e281] [cursor=pointer]
+              - button "Tampilkan foto 3 Premium Daster Tali" [ref=e282] [cursor=pointer]
+              - button "Tampilkan foto 4 Premium Daster Tali" [ref=e283] [cursor=pointer]
+              - button "Tampilkan foto 5 Premium Daster Tali" [ref=e284] [cursor=pointer]
+              - button "Tampilkan foto 6 Premium Daster Tali" [ref=e285] [cursor=pointer]
+              - button "Tampilkan foto 7 Premium Daster Tali" [ref=e286] [cursor=pointer]
+              - button "Tampilkan foto 8 Premium Daster Tali" [ref=e287] [cursor=pointer]
+          - generic [ref=e288]:
+            - paragraph [ref=e289]: Premium homedress
+            - heading "Premium Daster Tali" [level=3] [ref=e290]
+            - generic [ref=e291]:
+              - generic [ref=e292]: Gratis ongkir
+              - generic "Rating produk" [ref=e293]: ★★★★★
+              - generic [ref=e294]: 4.9 · 1839 terjual
+            - generic [ref=e295]:
+              - generic [ref=e296]:
+                - strong [ref=e297]: Rp53.500
+                - deletion [ref=e298]: Rp89.900
+              - button "Cek TikTok" [ref=e299] [cursor=pointer]
+        - article [ref=e302]:
+          - generic [ref=e303]:
+            - img "Bundling Daster Tali + V-Neck — foto 6" [ref=e502]
+            - button "Foto sebelumnya Bundling Daster Tali + V-Neck" [ref=e312] [cursor=pointer]
+            - button "Foto berikutnya Bundling Daster Tali + V-Neck" [ref=e315] [cursor=pointer]
+            - generic "Pilih foto Bundling Daster Tali + V-Neck" [ref=e318]:
+              - button "Tampilkan foto 1 Bundling Daster Tali + V-Neck" [ref=e319] [cursor=pointer]
+              - button "Tampilkan foto 2 Bundling Daster Tali + V-Neck" [ref=e320] [cursor=pointer]
+              - button "Tampilkan foto 3 Bundling Daster Tali + V-Neck" [ref=e321] [cursor=pointer]
+              - button "Tampilkan foto 4 Bundling Daster Tali + V-Neck" [ref=e322] [cursor=pointer]
+              - button "Tampilkan foto 5 Bundling Daster Tali + V-Neck" [ref=e323] [cursor=pointer]
+              - button "Tampilkan foto 6 Bundling Daster Tali + V-Neck" [ref=e324] [cursor=pointer]
+              - button "Tampilkan foto 7 Bundling Daster Tali + V-Neck" [ref=e325] [cursor=pointer]
+          - generic [ref=e326]:
+            - paragraph [ref=e327]: Bundling package
+            - heading "Bundling Daster Tali + V-Neck" [level=3] [ref=e328]
+            - generic [ref=e329]:
+              - generic [ref=e330]: Gratis ongkir
+              - generic "Rating produk" [ref=e331]: ★★★★★
+              - generic [ref=e332]: Paket isi 2
+            - generic [ref=e333]:
+              - generic [ref=e334]:
+                - strong [ref=e335]: Rp114.000
+                - deletion [ref=e336]: Rp120.000
+              - button "Cek TikTok" [ref=e337] [cursor=pointer]
+    - generic "Hot sale 50% off" [ref=e340]:
+      - generic [ref=e341]:
+        - generic [ref=e342]:
+          - generic [ref=e343]:
+            - text: Hot Sale
+            - generic [ref=e344]: 50% Off
+          - generic [ref=e345]: ✦
+          - generic [ref=e346]:
+            - text: Hot Sale
+            - generic [ref=e347]: 50% Off
+          - generic [ref=e348]: ✦
+          - generic [ref=e349]:
+            - text: Hot Sale
+            - generic [ref=e350]: 50% Off
+          - generic [ref=e351]: ✦
+          - generic [ref=e352]:
+            - text: Hot Sale
+            - generic [ref=e353]: 50% Off
+          - generic [ref=e354]: ✦
+          - generic [ref=e355]:
+            - text: Hot Sale
+            - generic [ref=e356]: 50% Off
+          - generic [ref=e357]: ✦
+          - generic [ref=e358]:
+            - text: Hot Sale
+            - generic [ref=e359]: 50% Off
+          - generic [ref=e360]: ✦
+          - generic [ref=e361]:
+            - text: Hot Sale
+            - generic [ref=e362]: 50% Off
+          - generic [ref=e363]: ✦
+          - generic [ref=e364]:
+            - text: Hot Sale
+            - generic [ref=e365]: 50% Off
+          - generic [ref=e366]: ✦
+          - generic [ref=e367]:
+            - text: Hot Sale
+            - generic [ref=e368]: 50% Off
+          - generic [ref=e369]: ✦
+          - generic [ref=e370]:
+            - text: Hot Sale
+            - generic [ref=e371]: 50% Off
+          - generic [ref=e372]: ✦
+        - generic [aria-hidden] [ref=e373]:
+          - generic [ref=e374]:
+            - text: Hot Sale
+            - generic [ref=e375]: 50% Off
+          - generic [ref=e376]: ✦
+          - generic [ref=e377]:
+            - text: Hot Sale
+            - generic [ref=e378]: 50% Off
+          - generic [ref=e379]: ✦
+          - generic [ref=e380]:
+            - text: Hot Sale
+            - generic [ref=e381]: 50% Off
+          - generic [ref=e382]: ✦
+          - generic [ref=e383]:
+            - text: Hot Sale
+            - generic [ref=e384]: 50% Off
+          - generic [ref=e385]: ✦
+          - generic [ref=e386]:
+            - text: Hot Sale
+            - generic [ref=e387]: 50% Off
+          - generic [ref=e388]: ✦
+          - generic [ref=e389]:
+            - text: Hot Sale
+            - generic [ref=e390]: 50% Off
+          - generic [ref=e391]: ✦
+          - generic [ref=e392]:
+            - text: Hot Sale
+            - generic [ref=e393]: 50% Off
+          - generic [ref=e394]: ✦
+          - generic [ref=e395]:
+            - text: Hot Sale
+            - generic [ref=e396]: 50% Off
+          - generic [ref=e397]: ✦
+          - generic [ref=e398]:
+            - text: Hot Sale
+            - generic [ref=e399]: 50% Off
+          - generic [ref=e400]: ✦
+          - generic [ref=e401]:
+            - text: Hot Sale
+            - generic [ref=e402]: 50% Off
+          - generic [ref=e403]: ✦
+    - generic [ref=e405]:
+      - generic [ref=e406]:
+        - img "Detail Daster Tali DXD.Hits" [ref=e407]
+        - generic [ref=e408]:
+          - generic [ref=e409]: DXD.Hits
+          - strong [ref=e410]: Premium daily wear
+          - generic [ref=e411]: Nyaman di rumah. Tetap jadi dirimu.
+      - generic [ref=e412]:
+        - generic [ref=e413]: Tentang kami
+        - heading "Homewear yang terasa nyaman dan terlihat istimewa." [level=2] [ref=e414]
+        - paragraph [ref=e415]: DXD.Hits menghadirkan daily wear untuk menemani waktu istirahat, aktivitas ringan, dan momen santai. Setiap koleksi mengutamakan bahan rayon premium, potongan leluasa, serta motif yang mudah kamu cintai.
+    - generic [ref=e417]:
+      - generic [ref=e418]:
+        - generic [ref=e419]:
+          - generic [ref=e420]: "#DXDHits"
+          - heading "Kenalan lebih dekat di TikTok" [level=2] [ref=e421]
+        - paragraph [ref=e422]: Lihat koleksi, inspirasi gaya, dan detail produk langsung dari video kami.
+      - generic [ref=e423]:
+        - article [ref=e424]:
+          - iframe [ref=e426]:
+            - region "TikTok video player" [ref=f1e1]:
+              - generic [ref=f1e2]:
+                - img "Video Cover"
+                - generic [ref=f1e5] [cursor=pointer]
+              - link "Visit dxdhits's video on TikTok" [ref=f1e6] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@dxdhits/video/7680424698563300629?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7680424698563300629%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7680424698563300629
+              - link "Visit dxd.hits' profile on TikTok" [ref=f1e8] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@dxdhits?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7680424698563300629%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7680424698563300629
+                - generic [ref=f1e11]:
+                  - generic [ref=f1e12]: dxd.hits
+                  - generic [ref=f1e13]: dxdhits
+              - button "Play video" [ref=f1e15] [cursor=pointer]
+              - generic [ref=f1e17]:
+                - generic [ref=f1e18]:
+                  - link "Open description on TikTok" [ref=f1e21] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@dxdhits/video/7680424698563300629?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7680424698563300629%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7680424698563300629
+                    - generic [ref=f1e22]: "#homedress #homewear #minidress #dastermini"
+                  - link "Open sound on TikTok" [ref=f1e23] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@dxdhits/video/7680424698563300629?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7680424698563300629%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7680424698563300629
+                    - generic [ref=f1e24]: suara asli - dxd.hits - dxd.hits
+                - slider "Seek video" [ref=f1e28]:
+                  - generic [ref=f1e29] [cursor=pointer]
+                - generic [ref=f1e30]:
+                  - generic [ref=f1e31]:
+                    - button "Play" [ref=f1e32] [cursor=pointer]
+                    - generic [ref=f1e35]:
+                      - button "Mute" [ref=f1e36] [cursor=pointer]
+                      - slider "Volume" [ref=f1e40] [cursor=pointer]
+                    - generic [aria-hidden] [ref=f1e43]: 00:00/00:15
+                  - generic [ref=f1e44]:
+                    - button "Settings" [ref=f1e45] [cursor=pointer]
+                    - button "Enter fullscreen" [ref=f1e51] [cursor=pointer]
+              - generic [ref=f1e54]:
+                - link "Like this post on TikTok" [ref=f1e55] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7680424698563300629?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7680424698563300629%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7680424698563300629
+                  - generic [ref=f1e58]: "23"
+                - link "Comment this post on TikTok" [ref=f1e59] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7680424698563300629?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7680424698563300629%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7680424698563300629
+                  - generic [ref=f1e62]: "0"
+                - link "Share this post on TikTok" [ref=f1e63] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7680424698563300629?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7680424698563300629%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7680424698563300629
+                  - generic [ref=f1e66]: "1"
+          - link "Tonton di TikTok" [ref=e427] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@dxdhits/video/7680424698563300629
+            - text: Tonton di TikTok
+            - generic [aria-hidden] [ref=e428]: ↗
+        - article [ref=e429]:
+          - iframe [ref=e431]:
+            - region "TikTok video player" [ref=f2e1]:
+              - generic [ref=f2e2]:
+                - img "Video Cover"
+                - generic [ref=f2e5] [cursor=pointer]
+              - link "Visit dxdhits's video on TikTok" [ref=f2e6] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@dxdhits/video/7678731258758761749?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678731258758761749%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678731258758761749
+              - link "Visit dxd.hits' profile on TikTok" [ref=f2e8] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@dxdhits?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678731258758761749%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678731258758761749
+                - generic [ref=f2e11]:
+                  - generic [ref=f2e12]: dxd.hits
+                  - generic [ref=f2e13]: dxdhits
+              - button "Play video" [ref=f2e15] [cursor=pointer]
+              - generic [ref=f2e17]:
+                - generic [ref=f2e18]:
+                  - generic [ref=f2e20]:
+                    - link "Open description on TikTok" [ref=f2e21] [cursor=pointer]:
+                      - /url: https://www.tiktok.com/@dxdhits/video/7678731258758761749?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678731258758761749%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678731258758761749
+                      - generic [ref=f2e22]: "Cek keranjang kode motif cerry dots 🥰 #dastermini #dasterviral #homedress #homewear"
+                    - button "more" [ref=f2e23] [cursor=pointer]
+                  - link "Open sound on TikTok" [ref=f2e24] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@dxdhits/video/7678731258758761749?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678731258758761749%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678731258758761749
+                    - generic [ref=f2e25]: suara asli - dxd.hits - dxd.hits
+                - slider "Seek video" [ref=f2e29]:
+                  - generic [ref=f2e30] [cursor=pointer]
+                - generic [ref=f2e31]:
+                  - generic [ref=f2e32]:
+                    - button "Play" [ref=f2e33] [cursor=pointer]
+                    - generic [ref=f2e36]:
+                      - button "Mute" [ref=f2e37] [cursor=pointer]
+                      - slider "Volume" [ref=f2e41] [cursor=pointer]
+                    - generic [aria-hidden] [ref=f2e44]: 00:00/00:15
+                  - generic [ref=f2e45]:
+                    - button "Settings" [ref=f2e46] [cursor=pointer]
+                    - button "Enter fullscreen" [ref=f2e52] [cursor=pointer]
+              - generic [ref=f2e55]:
+                - link "Like this post on TikTok" [ref=f2e56] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7678731258758761749?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678731258758761749%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678731258758761749
+                  - generic [ref=f2e59]: "14"
+                - link "Comment this post on TikTok" [ref=f2e60] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7678731258758761749?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678731258758761749%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678731258758761749
+                  - generic [ref=f2e63]: "0"
+                - link "Share this post on TikTok" [ref=f2e64] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7678731258758761749?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678731258758761749%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678731258758761749
+                  - generic [ref=f2e67]: "0"
+          - link "Tonton di TikTok" [ref=e432] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@dxdhits/video/7678731258758761749
+            - text: Tonton di TikTok
+            - generic [aria-hidden] [ref=e433]: ↗
+        - article [ref=e434]:
+          - iframe [ref=e436]:
+            - region "TikTok video player" [ref=f3e1]:
+              - generic [ref=f3e2]:
+                - img "Video Cover"
+                - generic [ref=f3e5] [cursor=pointer]
+              - link "Visit dxdhits's video on TikTok" [ref=f3e6] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@dxdhits/video/7678217564010614036?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678217564010614036%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678217564010614036
+              - link "Visit dxd.hits' profile on TikTok" [ref=f3e8] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@dxdhits?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678217564010614036%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678217564010614036
+                - generic [ref=f3e11]:
+                  - generic [ref=f3e12]: dxd.hits
+                  - generic [ref=f3e13]: dxdhits
+              - button "Play video" [ref=f3e15] [cursor=pointer]
+              - generic [ref=f3e17]:
+                - generic [ref=f3e18]:
+                  - generic [ref=f3e20]:
+                    - link "Open description on TikTok" [ref=f3e21] [cursor=pointer]:
+                      - /url: https://www.tiktok.com/@dxdhits/video/7678217564010614036?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678217564010614036%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678217564010614036
+                      - generic [ref=f3e22]: "Lemesin duluu guys 🥰 cek keranjang kita ❤️ #dastermini #dasterviral #homedress #homewear"
+                    - button "more" [ref=f3e23] [cursor=pointer]
+                  - link "Open sound on TikTok" [ref=f3e24] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@dxdhits/video/7678217564010614036?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678217564010614036%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678217564010614036
+                    - generic [ref=f3e25]: suara asli - dxd.hits - dxd.hits
+                - slider "Seek video" [ref=f3e29]:
+                  - generic [ref=f3e30] [cursor=pointer]
+                - generic [ref=f3e31]:
+                  - generic [ref=f3e32]:
+                    - button "Play" [ref=f3e33] [cursor=pointer]
+                    - generic [ref=f3e36]:
+                      - button "Mute" [ref=f3e37] [cursor=pointer]
+                      - slider "Volume" [ref=f3e41] [cursor=pointer]
+                    - generic [aria-hidden] [ref=f3e44]: 00:00/00:47
+                  - generic [ref=f3e45]:
+                    - button "Settings" [ref=f3e46] [cursor=pointer]
+                    - button "Enter fullscreen" [ref=f3e52] [cursor=pointer]
+              - generic [ref=f3e55]:
+                - link "Like this post on TikTok" [ref=f3e56] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7678217564010614036?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678217564010614036%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678217564010614036
+                  - generic [ref=f3e59]: "44"
+                - link "Comment this post on TikTok" [ref=f3e60] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7678217564010614036?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678217564010614036%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678217564010614036
+                  - generic [ref=f3e63]: "1"
+                - link "Share this post on TikTok" [ref=f3e64] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7678217564010614036?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7678217564010614036%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7678217564010614036
+                  - generic [ref=f3e67]: "0"
+          - link "Tonton di TikTok" [ref=e437] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@dxdhits/video/7678217564010614036
+            - text: Tonton di TikTok
+            - generic [aria-hidden] [ref=e438]: ↗
+        - article [ref=e439]:
+          - iframe [ref=e441]:
+            - region "TikTok video player" [ref=f4e1]:
+              - generic [ref=f4e2]:
+                - img "Video Cover"
+                - generic [ref=f4e5] [cursor=pointer]
+              - link "Visit dxdhits's video on TikTok" [ref=f4e6] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@dxdhits/video/7676021639535971604?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7676021639535971604%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7676021639535971604
+              - link "Visit dxd.hits' profile on TikTok" [ref=f4e8] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@dxdhits?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7676021639535971604%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7676021639535971604
+                - generic [ref=f4e11]:
+                  - generic [ref=f4e12]: dxd.hits
+                  - generic [ref=f4e13]: dxdhits
+              - button "Play video" [ref=f4e15] [cursor=pointer]
+              - generic [ref=f4e17]:
+                - generic [ref=f4e18]:
+                  - link "Open description on TikTok" [ref=f4e21] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@dxdhits/video/7676021639535971604?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7676021639535971604%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7676021639535971604
+                    - generic [ref=f4e22]: "Blush bouqet cantik yahhhh 🥰 #dastermini #homedress #dasterviral"
+                  - link "Open sound on TikTok" [ref=f4e23] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@dxdhits/video/7676021639535971604?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7676021639535971604%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7676021639535971604
+                    - generic [ref=f4e24]: suara asli - dxd.hits - dxd.hits
+                - slider "Seek video" [ref=f4e28]:
+                  - generic [ref=f4e29] [cursor=pointer]
+                - generic [ref=f4e30]:
+                  - generic [ref=f4e31]:
+                    - button "Play" [ref=f4e32] [cursor=pointer]
+                    - generic [ref=f4e35]:
+                      - button "Mute" [ref=f4e36] [cursor=pointer]
+                      - slider "Volume" [ref=f4e40] [cursor=pointer]
+                    - generic [aria-hidden] [ref=f4e43]: 00:00/00:15
+                  - generic [ref=f4e44]:
+                    - button "Settings" [ref=f4e45] [cursor=pointer]
+                    - button "Enter fullscreen" [ref=f4e51] [cursor=pointer]
+              - generic [ref=f4e54]:
+                - link "Like this post on TikTok" [ref=f4e55] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7676021639535971604?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7676021639535971604%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7676021639535971604
+                  - generic [ref=f4e58]: "4"
+                - link "Comment this post on TikTok" [ref=f4e59] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7676021639535971604?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7676021639535971604%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7676021639535971604
+                  - generic [ref=f4e62]: "0"
+                - link "Share this post on TikTok" [ref=f4e63] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@dxdhits/video/7676021639535971604?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7676021639535971604%3Fautoplay%3D0%26loop%3D1%26music_info%3D1%26description%3D1&referer_video_id=7676021639535971604
+                  - generic [ref=f4e66]: "0"
+          - link "Tonton di TikTok" [ref=e442] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@dxdhits/video/7676021639535971604
+            - text: Tonton di TikTok
+            - generic [aria-hidden] [ref=e443]: ↗
+    - generic [ref=e445]:
+      - generic [ref=e446]:
+        - generic [ref=e447]: Temukan gaya nyamanmu
+        - heading "Daily wear, but make it yours." [level=2] [ref=e448]
+      - link "Kunjungi TikTok Shop" [ref=e449] [cursor=pointer]:
+        - /url: https://www.tiktok.com/@dxdhits
+  - contentinfo [ref=e450]:
+    - generic [ref=e451]:
+      - generic [ref=e452]:
+        - img "DXD.Hits Homewear" [ref=e453]
+        - paragraph [ref=e454]: Premium daily wear untuk hari-hari nyaman yang tetap penuh gaya.
+      - generic [ref=e455]:
+        - strong [ref=e456]: Jelajahi
+        - link "Beranda" [ref=e457] [cursor=pointer]:
+          - /url: "#beranda"
+        - link "Koleksi" [ref=e458] [cursor=pointer]:
+          - /url: "#koleksi"
+        - link "Tentang Kami" [ref=e459] [cursor=pointer]:
+          - /url: "#tentang"
+      - generic [ref=e460]:
+        - strong [ref=e461]: Ikuti Kami
+        - link "TikTok @dxdhits" [ref=e462] [cursor=pointer]:
+          - /url: https://www.tiktok.com/@dxdhits
+        - link "Video terbaru" [ref=e463] [cursor=pointer]:
+          - /url: "#tiktok"
+      - generic [ref=e464]:
+        - strong [ref=e465]: Belanja koleksi
+        - paragraph [ref=e466]: Harga dan promo dapat berubah mengikuti program yang aktif di TikTok Shop.
+        - link "Lihat semua produk" [ref=e467] [cursor=pointer]:
+          - /url: "#koleksi"
+          - text: Lihat semua produk
+          - generic [aria-hidden] [ref=e468]: →
+    - generic [ref=e469]:
+      - paragraph [ref=e470]: © 2026 DXD.Hits Homewear. All rights reserved.
+      - paragraph [ref=e471]: Premium Daily Wear
+  - status
+  - button "Kembali ke atas" [ref=e480] [cursor=pointer]

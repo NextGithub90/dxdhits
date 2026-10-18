@@ -1,0 +1,447 @@
+- generic [ref=f50e1]:
+  - link "Lewati ke konten" [ref=f50e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic "Promo utama" [ref=f50e3]:
+    - generic [ref=f50e4]:
+      - link "Gratis ongkir untuk produk pilihan Lihat koleksi" [ref=f50e5] [cursor=pointer]:
+        - /url: "#koleksi"
+        - generic [ref=f50e6]: Gratis ongkir untuk produk pilihan
+        - generic [aria-hidden] [ref=f50e7]: •
+        - strong [ref=f50e8]: Lihat koleksi
+      - button "Tutup promo" [ref=f50e9] [cursor=pointer]
+  - banner [ref=f50e12]:
+    - generic [ref=f50e13]:
+      - link "DXD.Hits Homewear — beranda" [ref=f50e14] [cursor=pointer]:
+        - /url: "#beranda"
+        - img "Logo DXD.Hits Homewear" [ref=f50e15]
+      - generic [ref=f50e16]:
+        - link "Kunjungi TikTok DXD.Hits" [ref=f50e17] [cursor=pointer]:
+          - /url: https://www.tiktok.com/@dxdhits
+        - button "Tutup menu" [expanded] [active] [ref=f50e472] [cursor=pointer]
+    - navigation "Navigasi mobile" [ref=f50e473]:
+      - link "Beranda" [ref=f50e474] [cursor=pointer]:
+        - /url: "#beranda"
+      - link "Koleksi" [ref=f50e475] [cursor=pointer]:
+        - /url: "#koleksi"
+      - link "Tentang Kami" [ref=f50e476] [cursor=pointer]:
+        - /url: "#tentang"
+      - link "TikTok" [ref=f50e477] [cursor=pointer]:
+        - /url: "#tiktok"
+  - main [ref=f50e24]:
+    - region "Koleksi unggulan" [ref=f50e25]:
+      - generic [ref=f50e27]:
+        - article [ref=f50e478]:
+          - img "Perempuan mengenakan set homewear floral di ruang keluarga yang terang" [ref=f50e479]
+          - generic [ref=f50e481]:
+            - generic [ref=f50e482]: Everyday mood
+            - heading "Ringan dipakai, cantik dilihat." [level=2] [ref=f50e483]: Ringan dipakai,cantik dilihat.
+            - paragraph [ref=f50e484]: Motif cerah dan potongan santai untuk membuat hari di rumah terasa lebih menyenangkan.
+            - link "Lihat Koleksi" [ref=f50e485] [cursor=pointer]:
+              - /url: "#koleksi"
+        - button "Slide sebelumnya" [ref=f50e36] [cursor=pointer]
+        - button "Slide berikutnya" [ref=f50e39] [cursor=pointer]
+        - generic "Pilih slide" [ref=f50e42]:
+          - button "Tampilkan slide 1" [ref=f50e43] [cursor=pointer]
+          - button "Tampilkan slide 2" [ref=f50e44] [cursor=pointer]
+          - button "Tampilkan slide 3" [ref=f50e45] [cursor=pointer]
+    - generic "Hot sale 50% off" [ref=f50e46]:
+      - generic [ref=f50e47]:
+        - generic [ref=f50e48]:
+          - generic [ref=f50e49]:
+            - text: Hot Sale
+            - generic [ref=f50e50]: 50% Off
+          - generic [ref=f50e51]: ✦
+          - generic [ref=f50e52]:
+            - text: Hot Sale
+            - generic [ref=f50e53]: 50% Off
+          - generic [ref=f50e54]: ✦
+          - generic [ref=f50e55]:
+            - text: Hot Sale
+            - generic [ref=f50e56]: 50% Off
+          - generic [ref=f50e57]: ✦
+          - generic [ref=f50e58]:
+            - text: Hot Sale
+            - generic [ref=f50e59]: 50% Off
+          - generic [ref=f50e60]: ✦
+          - generic [ref=f50e61]:
+            - text: Hot Sale
+            - generic [ref=f50e62]: 50% Off
+          - generic [ref=f50e63]: ✦
+          - generic [ref=f50e64]:
+            - text: Hot Sale
+            - generic [ref=f50e65]: 50% Off
+          - generic [ref=f50e66]: ✦
+          - generic [ref=f50e67]:
+            - text: Hot Sale
+            - generic [ref=f50e68]: 50% Off
+          - generic [ref=f50e69]: ✦
+          - generic [ref=f50e70]:
+            - text: Hot Sale
+            - generic [ref=f50e71]: 50% Off
+          - generic [ref=f50e72]: ✦
+          - generic [ref=f50e73]:
+            - text: Hot Sale
+            - generic [ref=f50e74]: 50% Off
+          - generic [ref=f50e75]: ✦
+          - generic [ref=f50e76]:
+            - text: Hot Sale
+            - generic [ref=f50e77]: 50% Off
+          - generic [ref=f50e78]: ✦
+        - generic [aria-hidden] [ref=f50e79]:
+          - generic [ref=f50e80]:
+            - text: Hot Sale
+            - generic [ref=f50e81]: 50% Off
+          - generic [ref=f50e82]: ✦
+          - generic [ref=f50e83]:
+            - text: Hot Sale
+            - generic [ref=f50e84]: 50% Off
+          - generic [ref=f50e85]: ✦
+          - generic [ref=f50e86]:
+            - text: Hot Sale
+            - generic [ref=f50e87]: 50% Off
+          - generic [ref=f50e88]: ✦
+          - generic [ref=f50e89]:
+            - text: Hot Sale
+            - generic [ref=f50e90]: 50% Off
+          - generic [ref=f50e91]: ✦
+          - generic [ref=f50e92]:
+            - text: Hot Sale
+            - generic [ref=f50e93]: 50% Off
+          - generic [ref=f50e94]: ✦
+          - generic [ref=f50e95]:
+            - text: Hot Sale
+            - generic [ref=f50e96]: 50% Off
+          - generic [ref=f50e97]: ✦
+          - generic [ref=f50e98]:
+            - text: Hot Sale
+            - generic [ref=f50e99]: 50% Off
+          - generic [ref=f50e100]: ✦
+          - generic [ref=f50e101]:
+            - text: Hot Sale
+            - generic [ref=f50e102]: 50% Off
+          - generic [ref=f50e103]: ✦
+          - generic [ref=f50e104]:
+            - text: Hot Sale
+            - generic [ref=f50e105]: 50% Off
+          - generic [ref=f50e106]: ✦
+          - generic [ref=f50e107]:
+            - text: Hot Sale
+            - generic [ref=f50e108]: 50% Off
+          - generic [ref=f50e109]: ✦
+    - generic [ref=f50e111]:
+      - generic [ref=f50e112]:
+        - generic [ref=f50e113]:
+          - generic [ref=f50e114]: Pilihan DXD.Hits
+          - heading "Temukan homewear favoritmu" [level=2] [ref=f50e115]
+        - paragraph [ref=f50e116]: Enam koleksi pilihan dengan bahan nyaman, motif menarik, dan harga spesial.
+      - generic [ref=f50e117]:
+        - article [ref=f50e118]:
+          - generic [ref=f50e119]:
+            - img "One Set Lace V-Neck — foto 1" [ref=f50e121]
+            - button "Foto sebelumnya One Set Lace V-Neck" [ref=f50e126] [cursor=pointer]
+            - button "Foto berikutnya One Set Lace V-Neck" [ref=f50e129] [cursor=pointer]
+            - generic "Pilih foto One Set Lace V-Neck" [ref=f50e132]:
+              - button "Tampilkan foto 1 One Set Lace V-Neck" [ref=f50e133] [cursor=pointer]
+              - button "Tampilkan foto 2 One Set Lace V-Neck" [ref=f50e134] [cursor=pointer]
+              - button "Tampilkan foto 3 One Set Lace V-Neck" [ref=f50e135] [cursor=pointer]
+              - button "Tampilkan foto 4 One Set Lace V-Neck" [ref=f50e136] [cursor=pointer]
+              - button "Tampilkan foto 5 One Set Lace V-Neck" [ref=f50e137] [cursor=pointer]
+          - generic [ref=f50e138]:
+            - paragraph [ref=f50e139]: Best choice
+            - heading "One Set Lace V-Neck" [level=3] [ref=f50e140]
+            - generic [ref=f50e141]:
+              - generic [ref=f50e142]: Gratis ongkir
+              - generic "Rating produk" [ref=f50e143]: ★★★★★
+              - generic [ref=f50e144]: 5 terjual
+            - generic [ref=f50e145]:
+              - generic [ref=f50e146]:
+                - strong [ref=f50e147]: Rp86.088
+                - deletion [ref=f50e148]: Rp129.500
+              - button "Cek TikTok" [ref=f50e149] [cursor=pointer]
+        - article [ref=f50e152]:
+          - generic [ref=f50e153]:
+            - img "Crop Boxy Two-Piece Set — foto 1" [ref=f50e155]
+            - button "Foto sebelumnya Crop Boxy Two-Piece Set" [ref=f50e160] [cursor=pointer]
+            - button "Foto berikutnya Crop Boxy Two-Piece Set" [ref=f50e163] [cursor=pointer]
+            - generic "Pilih foto Crop Boxy Two-Piece Set" [ref=f50e166]:
+              - button "Tampilkan foto 1 Crop Boxy Two-Piece Set" [ref=f50e167] [cursor=pointer]
+              - button "Tampilkan foto 2 Crop Boxy Two-Piece Set" [ref=f50e168] [cursor=pointer]
+              - button "Tampilkan foto 3 Crop Boxy Two-Piece Set" [ref=f50e169] [cursor=pointer]
+              - button "Tampilkan foto 4 Crop Boxy Two-Piece Set" [ref=f50e170] [cursor=pointer]
+              - button "Tampilkan foto 5 Crop Boxy Two-Piece Set" [ref=f50e171] [cursor=pointer]
+          - generic [ref=f50e172]:
+            - paragraph [ref=f50e173]: New product
+            - heading "Crop Boxy Two-Piece Set" [level=3] [ref=f50e174]
+            - generic [ref=f50e175]:
+              - generic [ref=f50e176]: Gratis ongkir
+              - generic "Rating produk" [ref=f50e177]: ★★★★★
+              - generic [ref=f50e178]: 2 terjual
+            - generic [ref=f50e179]:
+              - generic [ref=f50e180]:
+                - strong [ref=f50e181]: Rp72.900
+                - deletion [ref=f50e182]: Rp109.950
+              - button "Cek TikTok" [ref=f50e183] [cursor=pointer]
+        - article [ref=f50e186]:
+          - generic [ref=f50e187]:
+            - img "Daster Mini Dress V-Neck — foto 1" [ref=f50e189]
+            - button "Foto sebelumnya Daster Mini Dress V-Neck" [ref=f50e198] [cursor=pointer]
+            - button "Foto berikutnya Daster Mini Dress V-Neck" [ref=f50e201] [cursor=pointer]
+            - generic "Pilih foto Daster Mini Dress V-Neck" [ref=f50e204]:
+              - button "Tampilkan foto 1 Daster Mini Dress V-Neck" [ref=f50e205] [cursor=pointer]
+              - button "Tampilkan foto 2 Daster Mini Dress V-Neck" [ref=f50e206] [cursor=pointer]
+              - button "Tampilkan foto 3 Daster Mini Dress V-Neck" [ref=f50e207] [cursor=pointer]
+              - button "Tampilkan foto 4 Daster Mini Dress V-Neck" [ref=f50e208] [cursor=pointer]
+              - button "Tampilkan foto 5 Daster Mini Dress V-Neck" [ref=f50e209] [cursor=pointer]
+              - button "Tampilkan foto 6 Daster Mini Dress V-Neck" [ref=f50e210] [cursor=pointer]
+              - button "Tampilkan foto 7 Daster Mini Dress V-Neck" [ref=f50e211] [cursor=pointer]
+              - button "Tampilkan foto 8 Daster Mini Dress V-Neck" [ref=f50e212] [cursor=pointer]
+              - button "Tampilkan foto 9 Daster Mini Dress V-Neck" [ref=f50e213] [cursor=pointer]
+          - generic [ref=f50e214]:
+            - paragraph [ref=f50e215]: Best seller
+            - heading "Daster Mini Dress V-Neck" [level=3] [ref=f50e216]
+            - generic [ref=f50e217]:
+              - generic [ref=f50e218]: Gratis ongkir
+              - generic "Rating produk" [ref=f50e219]: ★★★★★
+              - generic [ref=f50e220]: 4.8 · 9174 terjual
+            - generic [ref=f50e221]:
+              - generic [ref=f50e222]:
+                - strong [ref=f50e223]: Rp59.450
+                - deletion [ref=f50e224]: Rp99.500
+              - button "Cek TikTok" [ref=f50e225] [cursor=pointer]
+        - article [ref=f50e228]:
+          - generic [ref=f50e229]:
+            - img "Hayley Midnight Mini Dress — foto 1" [ref=f50e231]
+            - button "Foto sebelumnya Hayley Midnight Mini Dress" [ref=f50e236] [cursor=pointer]
+            - button "Foto berikutnya Hayley Midnight Mini Dress" [ref=f50e239] [cursor=pointer]
+            - generic "Pilih foto Hayley Midnight Mini Dress" [ref=f50e242]:
+              - button "Tampilkan foto 1 Hayley Midnight Mini Dress" [ref=f50e243] [cursor=pointer]
+              - button "Tampilkan foto 2 Hayley Midnight Mini Dress" [ref=f50e244] [cursor=pointer]
+              - button "Tampilkan foto 3 Hayley Midnight Mini Dress" [ref=f50e245] [cursor=pointer]
+              - button "Tampilkan foto 4 Hayley Midnight Mini Dress" [ref=f50e246] [cursor=pointer]
+              - button "Tampilkan foto 5 Hayley Midnight Mini Dress" [ref=f50e247] [cursor=pointer]
+          - generic [ref=f50e248]:
+            - paragraph [ref=f50e249]: Special article
+            - heading "Hayley Midnight Mini Dress" [level=3] [ref=f50e250]
+            - generic [ref=f50e251]:
+              - generic [ref=f50e252]: Gratis ongkir
+              - generic "Rating produk" [ref=f50e253]: ★★★★★
+              - generic [ref=f50e254]: 4.7 · 50 terjual
+            - generic [ref=f50e255]:
+              - generic [ref=f50e256]:
+                - strong [ref=f50e257]: Rp56.635
+                - deletion [ref=f50e258]: Rp99.500
+              - button "Cek TikTok" [ref=f50e259] [cursor=pointer]
+        - article [ref=f50e262]:
+          - generic [ref=f50e263]:
+            - img "Premium Daster Tali — foto 1" [ref=f50e265]
+            - button "Foto sebelumnya Premium Daster Tali" [ref=f50e273] [cursor=pointer]
+            - button "Foto berikutnya Premium Daster Tali" [ref=f50e276] [cursor=pointer]
+            - generic "Pilih foto Premium Daster Tali" [ref=f50e279]:
+              - button "Tampilkan foto 1 Premium Daster Tali" [ref=f50e280] [cursor=pointer]
+              - button "Tampilkan foto 2 Premium Daster Tali" [ref=f50e281] [cursor=pointer]
+              - button "Tampilkan foto 3 Premium Daster Tali" [ref=f50e282] [cursor=pointer]
+              - button "Tampilkan foto 4 Premium Daster Tali" [ref=f50e283] [cursor=pointer]
+              - button "Tampilkan foto 5 Premium Daster Tali" [ref=f50e284] [cursor=pointer]
+              - button "Tampilkan foto 6 Premium Daster Tali" [ref=f50e285] [cursor=pointer]
+              - button "Tampilkan foto 7 Premium Daster Tali" [ref=f50e286] [cursor=pointer]
+              - button "Tampilkan foto 8 Premium Daster Tali" [ref=f50e287] [cursor=pointer]
+          - generic [ref=f50e288]:
+            - paragraph [ref=f50e289]: Premium homedress
+            - heading "Premium Daster Tali" [level=3] [ref=f50e290]
+            - generic [ref=f50e291]:
+              - generic [ref=f50e292]: Gratis ongkir
+              - generic "Rating produk" [ref=f50e293]: ★★★★★
+              - generic [ref=f50e294]: 4.9 · 1839 terjual
+            - generic [ref=f50e295]:
+              - generic [ref=f50e296]:
+                - strong [ref=f50e297]: Rp53.500
+                - deletion [ref=f50e298]: Rp89.900
+              - button "Cek TikTok" [ref=f50e299] [cursor=pointer]
+        - article [ref=f50e302]:
+          - generic [ref=f50e303]:
+            - img "Bundling Daster Tali + V-Neck — foto 1" [ref=f50e305]
+            - button "Foto sebelumnya Bundling Daster Tali + V-Neck" [ref=f50e312] [cursor=pointer]
+            - button "Foto berikutnya Bundling Daster Tali + V-Neck" [ref=f50e315] [cursor=pointer]
+            - generic "Pilih foto Bundling Daster Tali + V-Neck" [ref=f50e318]:
+              - button "Tampilkan foto 1 Bundling Daster Tali + V-Neck" [ref=f50e319] [cursor=pointer]
+              - button "Tampilkan foto 2 Bundling Daster Tali + V-Neck" [ref=f50e320] [cursor=pointer]
+              - button "Tampilkan foto 3 Bundling Daster Tali + V-Neck" [ref=f50e321] [cursor=pointer]
+              - button "Tampilkan foto 4 Bundling Daster Tali + V-Neck" [ref=f50e322] [cursor=pointer]
+              - button "Tampilkan foto 5 Bundling Daster Tali + V-Neck" [ref=f50e323] [cursor=pointer]
+              - button "Tampilkan foto 6 Bundling Daster Tali + V-Neck" [ref=f50e324] [cursor=pointer]
+              - button "Tampilkan foto 7 Bundling Daster Tali + V-Neck" [ref=f50e325] [cursor=pointer]
+          - generic [ref=f50e326]:
+            - paragraph [ref=f50e327]: Bundling package
+            - heading "Bundling Daster Tali + V-Neck" [level=3] [ref=f50e328]
+            - generic [ref=f50e329]:
+              - generic [ref=f50e330]: Gratis ongkir
+              - generic "Rating produk" [ref=f50e331]: ★★★★★
+              - generic [ref=f50e332]: Paket isi 2
+            - generic [ref=f50e333]:
+              - generic [ref=f50e334]:
+                - strong [ref=f50e335]: Rp114.000
+                - deletion [ref=f50e336]: Rp120.000
+              - button "Cek TikTok" [ref=f50e337] [cursor=pointer]
+    - generic "Hot sale 50% off" [ref=f50e340]:
+      - generic [ref=f50e341]:
+        - generic [ref=f50e342]:
+          - generic [ref=f50e343]:
+            - text: Hot Sale
+            - generic [ref=f50e344]: 50% Off
+          - generic [ref=f50e345]: ✦
+          - generic [ref=f50e346]:
+            - text: Hot Sale
+            - generic [ref=f50e347]: 50% Off
+          - generic [ref=f50e348]: ✦
+          - generic [ref=f50e349]:
+            - text: Hot Sale
+            - generic [ref=f50e350]: 50% Off
+          - generic [ref=f50e351]: ✦
+          - generic [ref=f50e352]:
+            - text: Hot Sale
+            - generic [ref=f50e353]: 50% Off
+          - generic [ref=f50e354]: ✦
+          - generic [ref=f50e355]:
+            - text: Hot Sale
+            - generic [ref=f50e356]: 50% Off
+          - generic [ref=f50e357]: ✦
+          - generic [ref=f50e358]:
+            - text: Hot Sale
+            - generic [ref=f50e359]: 50% Off
+          - generic [ref=f50e360]: ✦
+          - generic [ref=f50e361]:
+            - text: Hot Sale
+            - generic [ref=f50e362]: 50% Off
+          - generic [ref=f50e363]: ✦
+          - generic [ref=f50e364]:
+            - text: Hot Sale
+            - generic [ref=f50e365]: 50% Off
+          - generic [ref=f50e366]: ✦
+          - generic [ref=f50e367]:
+            - text: Hot Sale
+            - generic [ref=f50e368]: 50% Off
+          - generic [ref=f50e369]: ✦
+          - generic [ref=f50e370]:
+            - text: Hot Sale
+            - generic [ref=f50e371]: 50% Off
+          - generic [ref=f50e372]: ✦
+        - generic [aria-hidden] [ref=f50e373]:
+          - generic [ref=f50e374]:
+            - text: Hot Sale
+            - generic [ref=f50e375]: 50% Off
+          - generic [ref=f50e376]: ✦
+          - generic [ref=f50e377]:
+            - text: Hot Sale
+            - generic [ref=f50e378]: 50% Off
+          - generic [ref=f50e379]: ✦
+          - generic [ref=f50e380]:
+            - text: Hot Sale
+            - generic [ref=f50e381]: 50% Off
+          - generic [ref=f50e382]: ✦
+          - generic [ref=f50e383]:
+            - text: Hot Sale
+            - generic [ref=f50e384]: 50% Off
+          - generic [ref=f50e385]: ✦
+          - generic [ref=f50e386]:
+            - text: Hot Sale
+            - generic [ref=f50e387]: 50% Off
+          - generic [ref=f50e388]: ✦
+          - generic [ref=f50e389]:
+            - text: Hot Sale
+            - generic [ref=f50e390]: 50% Off
+          - generic [ref=f50e391]: ✦
+          - generic [ref=f50e392]:
+            - text: Hot Sale
+            - generic [ref=f50e393]: 50% Off
+          - generic [ref=f50e394]: ✦
+          - generic [ref=f50e395]:
+            - text: Hot Sale
+            - generic [ref=f50e396]: 50% Off
+          - generic [ref=f50e397]: ✦
+          - generic [ref=f50e398]:
+            - text: Hot Sale
+            - generic [ref=f50e399]: 50% Off
+          - generic [ref=f50e400]: ✦
+          - generic [ref=f50e401]:
+            - text: Hot Sale
+            - generic [ref=f50e402]: 50% Off
+          - generic [ref=f50e403]: ✦
+    - generic [ref=f50e405]:
+      - generic [ref=f50e406]:
+        - img "Detail Daster Tali DXD.Hits" [ref=f50e407]
+        - generic [ref=f50e408]:
+          - generic [ref=f50e409]: DXD.Hits
+          - strong [ref=f50e410]: Premium daily wear
+          - generic [ref=f50e411]: Nyaman di rumah. Tetap jadi dirimu.
+      - generic [ref=f50e412]:
+        - generic [ref=f50e413]: Tentang kami
+        - heading "Homewear yang terasa nyaman dan terlihat istimewa." [level=2] [ref=f50e414]
+        - paragraph [ref=f50e415]: DXD.Hits menghadirkan daily wear untuk menemani waktu istirahat, aktivitas ringan, dan momen santai. Setiap koleksi mengutamakan bahan rayon premium, potongan leluasa, serta motif yang mudah kamu cintai.
+    - generic [ref=f50e417]:
+      - generic [ref=f50e418]:
+        - generic [ref=f50e419]:
+          - generic [ref=f50e420]: "#DXDHits"
+          - heading "Kenalan lebih dekat di TikTok" [level=2] [ref=f50e421]
+        - paragraph [ref=f50e422]: Lihat koleksi, inspirasi gaya, dan detail produk langsung dari video kami.
+      - generic [ref=f50e423]:
+        - article [ref=f50e424]:
+          - iframe [ref=f50e426]
+          - link "Tonton di TikTok" [ref=f50e427] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@dxdhits/video/7680424698563300629
+            - text: Tonton di TikTok
+            - generic [aria-hidden] [ref=f50e428]: ↗
+        - article [ref=f50e429]:
+          - iframe [ref=f50e431]
+          - link "Tonton di TikTok" [ref=f50e432] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@dxdhits/video/7678731258758761749
+            - text: Tonton di TikTok
+            - generic [aria-hidden] [ref=f50e433]: ↗
+        - article [ref=f50e434]:
+          - iframe [ref=f50e436]
+          - link "Tonton di TikTok" [ref=f50e437] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@dxdhits/video/7678217564010614036
+            - text: Tonton di TikTok
+            - generic [aria-hidden] [ref=f50e438]: ↗
+        - article [ref=f50e439]:
+          - iframe [ref=f50e441]
+          - link "Tonton di TikTok" [ref=f50e442] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@dxdhits/video/7676021639535971604
+            - text: Tonton di TikTok
+            - generic [aria-hidden] [ref=f50e443]: ↗
+    - generic [ref=f50e445]:
+      - generic [ref=f50e446]:
+        - generic [ref=f50e447]: Temukan gaya nyamanmu
+        - heading "Daily wear, but make it yours." [level=2] [ref=f50e448]
+      - link "Kunjungi TikTok Shop" [ref=f50e449] [cursor=pointer]:
+        - /url: https://www.tiktok.com/@dxdhits
+  - contentinfo [ref=f50e450]:
+    - generic [ref=f50e451]:
+      - generic [ref=f50e452]:
+        - img "DXD.Hits Homewear" [ref=f50e453]
+        - paragraph [ref=f50e454]: Premium daily wear untuk hari-hari nyaman yang tetap penuh gaya.
+      - generic [ref=f50e455]:
+        - strong [ref=f50e456]: Jelajahi
+        - link "Beranda" [ref=f50e457] [cursor=pointer]:
+          - /url: "#beranda"
+        - link "Koleksi" [ref=f50e458] [cursor=pointer]:
+          - /url: "#koleksi"
+        - link "Tentang Kami" [ref=f50e459] [cursor=pointer]:
+          - /url: "#tentang"
+      - generic [ref=f50e460]:
+        - strong [ref=f50e461]: Ikuti Kami
+        - link "TikTok @dxdhits" [ref=f50e462] [cursor=pointer]:
+          - /url: https://www.tiktok.com/@dxdhits
+        - link "Video terbaru" [ref=f50e463] [cursor=pointer]:
+          - /url: "#tiktok"
+      - generic [ref=f50e464]:
+        - strong [ref=f50e465]: Belanja koleksi
+        - paragraph [ref=f50e466]: Harga dan promo dapat berubah mengikuti program yang aktif di TikTok Shop.
+        - link "Lihat semua produk" [ref=f50e467] [cursor=pointer]:
+          - /url: "#koleksi"
+          - text: Lihat semua produk
+          - generic [aria-hidden] [ref=f50e468]: →
+    - generic [ref=f50e469]:
+      - paragraph [ref=f50e470]: © 2026 DXD.Hits Homewear. All rights reserved.
+      - paragraph [ref=f50e471]: Premium Daily Wear
+  - status
+  - button "Kembali ke atas"
